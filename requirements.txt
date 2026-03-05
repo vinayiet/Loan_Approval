@@ -1,0 +1,18 @@
+numpy 
+pandas 
+scikit-learn 
+joblib 
+fastapi
+streamlit 
+           
+
+
+
+           data
+_
+ingestion.py
+data
+_preprocessing.py
+model
+_
+trainer.py
